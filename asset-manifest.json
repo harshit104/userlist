@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/harshit104/userlist/static/js/main.0b913c0e.chunk.js",
+    "main.js.map": "/harshit104/userlist/static/js/main.0b913c0e.chunk.js.map",
+    "runtime-main.js": "/harshit104/userlist/static/js/runtime-main.52f88c00.js",
+    "runtime-main.js.map": "/harshit104/userlist/static/js/runtime-main.52f88c00.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/harshit104/userlist/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b459d5b0.chunk.js": "/harshit104/userlist/static/js/2.b459d5b0.chunk.js",
+    "static/js/2.b459d5b0.chunk.js.map": "/harshit104/userlist/static/js/2.b459d5b0.chunk.js.map",
+    "index.html": "/harshit104/userlist/index.html",
+    "precache-manifest.e31f50ecb6ab467ee76394ae95220b5e.js": "/harshit104/userlist/precache-manifest.e31f50ecb6ab467ee76394ae95220b5e.js",
+    "service-worker.js": "/harshit104/userlist/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/harshit104/userlist/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.b459d5b0.chunk.js.LICENSE.txt": "/harshit104/userlist/static/js/2.b459d5b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f88c00.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b459d5b0.chunk.js",
+    "static/js/main.0b913c0e.chunk.js"
+  ]
+}
